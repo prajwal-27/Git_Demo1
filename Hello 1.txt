@@ -1,11 +1,8 @@
 
-1) 
-Hello this Hello1.txt file.
+1) This Windows Testing Line
 2) Two
 3) Three
 4) Four
 
-1) This Windows Testing Line
-2) Two
-3) Three
+
 
